@@ -17,4 +17,4 @@
 
 ##### [8. 树与树的算法的实现.md](https://github.com/ThanlonSmith/Data-Structure-Python3/blob/master/docs/8.树与树的算法的实现.md)
 
-PS：所有代码已在文档中给出，code/的是主要的一些代码！**
+PS：所有代码已在文档中给出，code/的是主要的一些代码！
